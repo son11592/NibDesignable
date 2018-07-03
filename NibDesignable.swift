@@ -77,7 +77,7 @@ extension NibDesignableProtocol {
 }
 
 extension UIView {
-    public var nibContainerView: UIView {
+    @objc public var nibContainerView: UIView {
         return self
     }
     /**
@@ -85,7 +85,7 @@ extension UIView {
 
      - returns: Name of a single view nib file.
      */
-    open func nibName() -> String {
+    @objc open func nibName() -> String {
         return type(of: self).description().components(separatedBy: ".").last!
     }
 }

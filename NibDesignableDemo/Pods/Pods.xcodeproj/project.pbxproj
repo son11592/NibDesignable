@@ -7,156 +7,178 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0BA3F184C67F31CC5A69A2D47FB07565 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */; };
-		57FE537BF9410539B45E764D0F8FCE3A /* Pods-NibDesignableDemo-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 9EE00F66ED8F5A2FCBC55AA9E6B2B831 /* Pods-NibDesignableDemo-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		6781E042E60279F30EC954114CD6FBEF /* NibDesignable-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 61C6ED54D12602243E6182D93608CC46 /* NibDesignable-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		821E658BFDEB948B7815B98C787D06A8 /* Pods-NibDesignableDemoTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B5526B6A4AC93386700CA7CEBACD412 /* Pods-NibDesignableDemoTests-dummy.m */; };
-		8637160A528CF6D9712CFB9FB3B71E80 /* NibDesignable.swift in Sources */ = {isa = PBXBuildFile; fileRef = D617A3F7D3C8E862D667718B4ADF3287 /* NibDesignable.swift */; };
-		B4CE0A2EB6784DBD2811122D3525D47E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */; };
-		B7813CCCC153CA098EA3BC03C38CBB0C /* NibDesignable-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 10AF415CCF2AC5EF4DB929663F0CD326 /* NibDesignable-dummy.m */; };
-		BBE1ACAC8BD864F97696A3C9179B7C26 /* Pods-NibDesignableDemoTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 787D317B75648933B4980B365F7F9769 /* Pods-NibDesignableDemoTests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		DB11FB647EC21E522E5B97C5B19C3DA9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */; };
-		ED6C6A9CFDE8C23263321960DE6CD0C2 /* Pods-NibDesignableDemo-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 5EAA88E9C2A2038FF944D60D60E35339 /* Pods-NibDesignableDemo-dummy.m */; };
+		06EEC7C988E70500D33BA85077EAEE42 /* NibDesignable-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = E41D4AA8AC330B90E6A3ADC3B387FF40 /* NibDesignable-dummy.m */; };
+		083F60D294EFD9EECE7D648BC9A400B5 /* Pods-NibDesignableDemoTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C836151A21ADBC823134212DA0BF7705 /* Pods-NibDesignableDemoTests-dummy.m */; };
+		108D1AB1CC5D877A0EE9E3216848BD29 /* Pods-NibDesignableDemo-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 5775753E382E48993BD4982188270CD8 /* Pods-NibDesignableDemo-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		601383B000DC0DD32E4E954F4BAC382C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */; };
+		64CB77110352E784F6D0F67C22D7A093 /* Pods-NibDesignableDemo-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 91DFAFFEAF07EAF7205CD575889F669E /* Pods-NibDesignableDemo-dummy.m */; };
+		76CC45B4C336BCCEE9F78893499383C5 /* Pods-NibDesignableDemoTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = EA56C59611943089335FAF5FDD7BAF89 /* Pods-NibDesignableDemoTests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7C7E32857BD465BC88A524EF88A76890 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */; };
+		7D2BBCC196A8301FB4AC6B868D6D743D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */; };
+		C4A3B7F63CFE62F48DAEF658E728FCB9 /* NibDesignable-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A549CBE5279287B41587B6784A477743 /* NibDesignable-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D367C66719DFCD5C7D06A9123158AA8D /* NibDesignable.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA0E139A94FA57B0FB4EF56E3899E62E /* NibDesignable.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		DAA971005E5D86F6623FECCC80038781 /* PBXContainerItemProxy */ = {
+		747EB0C5DB87E2DB0828F0BAFBB73BA6 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = C9635E9FED620B2CE25758C5EC96796A;
+			remoteGlobalIDString = FA687379C17E16E38819435B46F15DE2;
 			remoteInfo = NibDesignable;
+		};
+		FA398E8BADF51CF8A3CF4294DEB9AB90 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C71281E5FD32BA2C2F1AF86B50408BA7;
+			remoteInfo = "Pods-NibDesignableDemo";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		014E51FABFED13C5E651581917A930A0 /* Pods-NibDesignableDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NibDesignableDemo.release.xcconfig"; sourceTree = "<group>"; };
-		0520BE703585C70F09449CB79263DD61 /* NibDesignable-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NibDesignable-prefix.pch"; sourceTree = "<group>"; };
-		100D486CDF98649EF73DBF5E26537BE4 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		10AF415CCF2AC5EF4DB929663F0CD326 /* NibDesignable-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "NibDesignable-dummy.m"; sourceTree = "<group>"; };
-		1BF87566BCB6A374C2AC554DD6F4AFD4 /* Pods-NibDesignableDemoTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-NibDesignableDemoTests-acknowledgements.plist"; sourceTree = "<group>"; };
-		25D362DAD40453B27E20658B9EF705CD /* NibDesignable.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = NibDesignable.modulemap; sourceTree = "<group>"; };
-		2BDE2D5F1413D1DDC35A8E3BC2510C75 /* Pods-NibDesignableDemo-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-NibDesignableDemo-acknowledgements.plist"; sourceTree = "<group>"; };
-		3AC2AF8B8C93CC39325E6C2D2AC7579C /* Pods-NibDesignableDemo-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-NibDesignableDemo-frameworks.sh"; sourceTree = "<group>"; };
-		4E4564879FAF8BF6B34F2EB34E224116 /* Pods-NibDesignableDemoTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-NibDesignableDemoTests-frameworks.sh"; sourceTree = "<group>"; };
-		55B6993FA138FA92C8A9DA2C87010E42 /* Pods-NibDesignableDemoTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-NibDesignableDemoTests.modulemap"; sourceTree = "<group>"; };
-		596E7DDBCAC99F264268485FE483C08C /* Pods-NibDesignableDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NibDesignableDemo.debug.xcconfig"; sourceTree = "<group>"; };
-		5E16BE4E6F747E5FE3B7F3D5D5CDFAA3 /* Pods-NibDesignableDemoTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NibDesignableDemoTests.release.xcconfig"; sourceTree = "<group>"; };
-		5EAA88E9C2A2038FF944D60D60E35339 /* Pods-NibDesignableDemo-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-NibDesignableDemo-dummy.m"; sourceTree = "<group>"; };
-		61C6ED54D12602243E6182D93608CC46 /* NibDesignable-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NibDesignable-umbrella.h"; sourceTree = "<group>"; };
+		1FF8EB8B3C2AE2035817BEE17A2D84D6 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2C3B35EA926BC375E6A4855893C295C8 /* Pods-NibDesignableDemoTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-NibDesignableDemoTests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		32532E7BC26BB96D04BB282C980CBF60 /* Pods-NibDesignableDemo-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-NibDesignableDemo-resources.sh"; sourceTree = "<group>"; };
+		402EE9763C5A2BA45FDF8696C8BC381D /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		440F0A781898ED118F20F73F2A7BCC59 /* Pods-NibDesignableDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NibDesignableDemo.release.xcconfig"; sourceTree = "<group>"; };
+		4DDE194EB8A73C0701175FB3D4F22AB5 /* Pods-NibDesignableDemo.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-NibDesignableDemo.modulemap"; sourceTree = "<group>"; };
+		515D284FD54A4E29A408F7DB384FA487 /* NibDesignable.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = NibDesignable.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		534BBCA7809F65131F45D85AF5DD06CE /* Pods-NibDesignableDemo-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-NibDesignableDemo-acknowledgements.markdown"; sourceTree = "<group>"; };
+		5775753E382E48993BD4982188270CD8 /* Pods-NibDesignableDemo-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-NibDesignableDemo-umbrella.h"; sourceTree = "<group>"; };
+		5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		5A17B843A18CBE859D56A43AE5F2F1D2 /* NibDesignable.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = NibDesignable.xcconfig; sourceTree = "<group>"; };
+		657C363CB4364C8A06DD61C06006D526 /* Pods-NibDesignableDemoTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-NibDesignableDemoTests-acknowledgements.plist"; sourceTree = "<group>"; };
 		6DF93988C451A9957A61E79E5FAD7FDD /* Pods_NibDesignableDemoTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NibDesignableDemoTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		78384F39819B9A5892B6EE6111063065 /* NibDesignable.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = NibDesignable.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		787D317B75648933B4980B365F7F9769 /* Pods-NibDesignableDemoTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-NibDesignableDemoTests-umbrella.h"; sourceTree = "<group>"; };
-		7E92E6BF4ACA1C25C70D09C6887AA8E5 /* Pods-NibDesignableDemo.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-NibDesignableDemo.modulemap"; sourceTree = "<group>"; };
-		90785D2C6786B3D746FB1E7F3D7517BE /* Pods-NibDesignableDemoTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NibDesignableDemoTests.debug.xcconfig"; sourceTree = "<group>"; };
+		7EF98223D5A9DFB46DC17EB96D09722D /* Pods-NibDesignableDemoTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NibDesignableDemoTests.release.xcconfig"; sourceTree = "<group>"; };
+		8FCE90B82A10994969B7D465C0E6A89E /* Pods-NibDesignableDemoTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-NibDesignableDemoTests-resources.sh"; sourceTree = "<group>"; };
+		904D293CC3502111DE9E4C719F34D522 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		91DFAFFEAF07EAF7205CD575889F669E /* Pods-NibDesignableDemo-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-NibDesignableDemo-dummy.m"; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		975B4D47D438F8B6C228CAA043D77AA7 /* Pods-NibDesignableDemoTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-NibDesignableDemoTests-resources.sh"; sourceTree = "<group>"; };
-		9B5526B6A4AC93386700CA7CEBACD412 /* Pods-NibDesignableDemoTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-NibDesignableDemoTests-dummy.m"; sourceTree = "<group>"; };
-		9EE00F66ED8F5A2FCBC55AA9E6B2B831 /* Pods-NibDesignableDemo-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-NibDesignableDemo-umbrella.h"; sourceTree = "<group>"; };
-		A8BB4B7EC7DD4CD59078BF84F7601666 /* Pods-NibDesignableDemoTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-NibDesignableDemoTests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		ABEBAA499F45C18D877A73FBC5F49526 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B2554A5FB4B1E097E809FC3342300C3D /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9412EDC34BDA5A20277A5FEA20618BF6 /* Pods-NibDesignableDemo-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-NibDesignableDemo-acknowledgements.plist"; sourceTree = "<group>"; };
+		A549CBE5279287B41587B6784A477743 /* NibDesignable-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NibDesignable-umbrella.h"; sourceTree = "<group>"; };
+		AA0E139A94FA57B0FB4EF56E3899E62E /* NibDesignable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = NibDesignable.swift; sourceTree = "<group>"; };
+		B8B5E8EC4D9476E57F53B8098462F49C /* Pods-NibDesignableDemoTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-NibDesignableDemoTests-frameworks.sh"; sourceTree = "<group>"; };
+		B9714B59A7AC2A78A799B87D38695770 /* NibDesignable.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = NibDesignable.modulemap; sourceTree = "<group>"; };
 		BAEC876DD41F0C2C4FB6791A60074CCE /* Pods_NibDesignableDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NibDesignableDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		D4A0F16007561DB58CF8451F3756016E /* NibDesignable.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = NibDesignable.xcconfig; sourceTree = "<group>"; };
-		D617A3F7D3C8E862D667718B4ADF3287 /* NibDesignable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = NibDesignable.swift; sourceTree = "<group>"; };
-		EC70EC3A118CC5D574372BF34E5537FC /* Pods-NibDesignableDemo-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-NibDesignableDemo-resources.sh"; sourceTree = "<group>"; };
-		F24CF373820ED0083E8F48C9D4114E8D /* Pods-NibDesignableDemo-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-NibDesignableDemo-acknowledgements.markdown"; sourceTree = "<group>"; };
+		C5153BAC6E80F4A8DB348980E11AE885 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		C836151A21ADBC823134212DA0BF7705 /* Pods-NibDesignableDemoTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-NibDesignableDemoTests-dummy.m"; sourceTree = "<group>"; };
+		CCCB43F1F87F398DBFAC4E1463EA0AA4 /* Pods-NibDesignableDemoTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NibDesignableDemoTests.debug.xcconfig"; sourceTree = "<group>"; };
+		D0DDEFDC9FE01474FAD0A6D8D6A0B461 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D3677B35E68030BCD52ADDAF9D055798 /* Pods-NibDesignableDemo-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-NibDesignableDemo-frameworks.sh"; sourceTree = "<group>"; };
+		E41D4AA8AC330B90E6A3ADC3B387FF40 /* NibDesignable-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "NibDesignable-dummy.m"; sourceTree = "<group>"; };
+		EA56C59611943089335FAF5FDD7BAF89 /* Pods-NibDesignableDemoTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-NibDesignableDemoTests-umbrella.h"; sourceTree = "<group>"; };
+		EA698F94EBFF178CF9DDE2E129AFF148 /* Pods-NibDesignableDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NibDesignableDemo.debug.xcconfig"; sourceTree = "<group>"; };
+		F2F33C436647C288360DC8BB74FCC4B2 /* NibDesignable-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NibDesignable-prefix.pch"; sourceTree = "<group>"; };
+		F9F4DB3B95D9A88877AE24C1B5210281 /* Pods-NibDesignableDemoTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-NibDesignableDemoTests.modulemap"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		617EC2C446F33A88BA3F1D8CF21DEEEF /* Frameworks */ = {
+		344147ECA6C1294939BB81BBA885026D /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DB11FB647EC21E522E5B97C5B19C3DA9 /* Foundation.framework in Frameworks */,
+				7D2BBCC196A8301FB4AC6B868D6D743D /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		6765E8BB46B69B3699A0806C8098301D /* Frameworks */ = {
+		6DAD376157130780D2934C4718119938 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0BA3F184C67F31CC5A69A2D47FB07565 /* Foundation.framework in Frameworks */,
+				601383B000DC0DD32E4E954F4BAC382C /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		AF4478525E2F2ABF9A2D45BD767A8AE2 /* Frameworks */ = {
+		F62448403F8E8F2E12C3F49B1DD94AAA /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B4CE0A2EB6784DBD2811122D3525D47E /* Foundation.framework in Frameworks */,
+				7C7E32857BD465BC88A524EF88A76890 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		0EB67A4F19C64200A79387159FED3311 /* Support Files */ = {
+		00DD32E5B03974F0346801EACB21A20B /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				ABEBAA499F45C18D877A73FBC5F49526 /* Info.plist */,
-				25D362DAD40453B27E20658B9EF705CD /* NibDesignable.modulemap */,
-				D4A0F16007561DB58CF8451F3756016E /* NibDesignable.xcconfig */,
-				10AF415CCF2AC5EF4DB929663F0CD326 /* NibDesignable-dummy.m */,
-				0520BE703585C70F09449CB79263DD61 /* NibDesignable-prefix.pch */,
-				61C6ED54D12602243E6182D93608CC46 /* NibDesignable-umbrella.h */,
+				C5153BAC6E80F4A8DB348980E11AE885 /* LICENSE */,
+				515D284FD54A4E29A408F7DB384FA487 /* NibDesignable.podspec */,
+				402EE9763C5A2BA45FDF8696C8BC381D /* README.md */,
 			);
-			name = "Support Files";
-			path = "NibDesignableDemo/Pods/Target Support Files/NibDesignable";
+			name = Pod;
 			sourceTree = "<group>";
 		};
-		3DCAB2B7CDE207B3958B6CB957FCC758 /* iOS */ = {
+		2F20CA50461D037AA1556E3EBCC46C65 /* Pods-NibDesignableDemoTests */ = {
 			isa = PBXGroup;
 			children = (
-				CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */,
+				D0DDEFDC9FE01474FAD0A6D8D6A0B461 /* Info.plist */,
+				F9F4DB3B95D9A88877AE24C1B5210281 /* Pods-NibDesignableDemoTests.modulemap */,
+				2C3B35EA926BC375E6A4855893C295C8 /* Pods-NibDesignableDemoTests-acknowledgements.markdown */,
+				657C363CB4364C8A06DD61C06006D526 /* Pods-NibDesignableDemoTests-acknowledgements.plist */,
+				C836151A21ADBC823134212DA0BF7705 /* Pods-NibDesignableDemoTests-dummy.m */,
+				B8B5E8EC4D9476E57F53B8098462F49C /* Pods-NibDesignableDemoTests-frameworks.sh */,
+				8FCE90B82A10994969B7D465C0E6A89E /* Pods-NibDesignableDemoTests-resources.sh */,
+				EA56C59611943089335FAF5FDD7BAF89 /* Pods-NibDesignableDemoTests-umbrella.h */,
+				CCCB43F1F87F398DBFAC4E1463EA0AA4 /* Pods-NibDesignableDemoTests.debug.xcconfig */,
+				7EF98223D5A9DFB46DC17EB96D09722D /* Pods-NibDesignableDemoTests.release.xcconfig */,
+			);
+			name = "Pods-NibDesignableDemoTests";
+			path = "Target Support Files/Pods-NibDesignableDemoTests";
+			sourceTree = "<group>";
+		};
+		5E0D919E635D23B70123790B8308F8EF /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */,
 			);
 			name = iOS;
+			sourceTree = "<group>";
+		};
+		6B5A28EB470F4A5E6638555CA78F5180 /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				F6A8132DBDEF85837E23315B1804C90C /* NibDesignable */,
+			);
+			name = "Development Pods";
 			sourceTree = "<group>";
 		};
 		7DB346D0F39D3F0E887471402A8071AB = {
 			isa = PBXGroup;
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
-				D3D02A3550A0FE45847028B9E13D7E0E /* Development Pods */,
+				6B5A28EB470F4A5E6638555CA78F5180 /* Development Pods */,
 				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
 				C6EFC9FA54175DB3695E3AA553589CED /* Products */,
 				BC9F934F355099C0FA1F41321AFD6D66 /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
 		};
-		A9BFD702D4FF7E90A347517DB9A0109B /* Pods-NibDesignableDemo */ = {
+		8EF485889DFB7507DA080158DF67DA87 /* Pods-NibDesignableDemo */ = {
 			isa = PBXGroup;
 			children = (
-				B2554A5FB4B1E097E809FC3342300C3D /* Info.plist */,
-				7E92E6BF4ACA1C25C70D09C6887AA8E5 /* Pods-NibDesignableDemo.modulemap */,
-				F24CF373820ED0083E8F48C9D4114E8D /* Pods-NibDesignableDemo-acknowledgements.markdown */,
-				2BDE2D5F1413D1DDC35A8E3BC2510C75 /* Pods-NibDesignableDemo-acknowledgements.plist */,
-				5EAA88E9C2A2038FF944D60D60E35339 /* Pods-NibDesignableDemo-dummy.m */,
-				3AC2AF8B8C93CC39325E6C2D2AC7579C /* Pods-NibDesignableDemo-frameworks.sh */,
-				EC70EC3A118CC5D574372BF34E5537FC /* Pods-NibDesignableDemo-resources.sh */,
-				9EE00F66ED8F5A2FCBC55AA9E6B2B831 /* Pods-NibDesignableDemo-umbrella.h */,
-				596E7DDBCAC99F264268485FE483C08C /* Pods-NibDesignableDemo.debug.xcconfig */,
-				014E51FABFED13C5E651581917A930A0 /* Pods-NibDesignableDemo.release.xcconfig */,
+				904D293CC3502111DE9E4C719F34D522 /* Info.plist */,
+				4DDE194EB8A73C0701175FB3D4F22AB5 /* Pods-NibDesignableDemo.modulemap */,
+				534BBCA7809F65131F45D85AF5DD06CE /* Pods-NibDesignableDemo-acknowledgements.markdown */,
+				9412EDC34BDA5A20277A5FEA20618BF6 /* Pods-NibDesignableDemo-acknowledgements.plist */,
+				91DFAFFEAF07EAF7205CD575889F669E /* Pods-NibDesignableDemo-dummy.m */,
+				D3677B35E68030BCD52ADDAF9D055798 /* Pods-NibDesignableDemo-frameworks.sh */,
+				32532E7BC26BB96D04BB282C980CBF60 /* Pods-NibDesignableDemo-resources.sh */,
+				5775753E382E48993BD4982188270CD8 /* Pods-NibDesignableDemo-umbrella.h */,
+				EA698F94EBFF178CF9DDE2E129AFF148 /* Pods-NibDesignableDemo.debug.xcconfig */,
+				440F0A781898ED118F20F73F2A7BCC59 /* Pods-NibDesignableDemo.release.xcconfig */,
 			);
 			name = "Pods-NibDesignableDemo";
 			path = "Target Support Files/Pods-NibDesignableDemo";
 			sourceTree = "<group>";
 		};
-		AEBF9DD8F78F1BDD06F1AEC01A8A6159 /* NibDesignable */ = {
-			isa = PBXGroup;
-			children = (
-				D617A3F7D3C8E862D667718B4ADF3287 /* NibDesignable.swift */,
-				0EB67A4F19C64200A79387159FED3311 /* Support Files */,
-			);
-			name = NibDesignable;
-			path = ../..;
-			sourceTree = "<group>";
-		};
 		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				3DCAB2B7CDE207B3958B6CB957FCC758 /* iOS */,
+				5E0D919E635D23B70123790B8308F8EF /* iOS */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -164,28 +186,10 @@
 		BC9F934F355099C0FA1F41321AFD6D66 /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				A9BFD702D4FF7E90A347517DB9A0109B /* Pods-NibDesignableDemo */,
-				BD6AB64F9E08BCC85BA5265B06042CB8 /* Pods-NibDesignableDemoTests */,
+				8EF485889DFB7507DA080158DF67DA87 /* Pods-NibDesignableDemo */,
+				2F20CA50461D037AA1556E3EBCC46C65 /* Pods-NibDesignableDemoTests */,
 			);
 			name = "Targets Support Files";
-			sourceTree = "<group>";
-		};
-		BD6AB64F9E08BCC85BA5265B06042CB8 /* Pods-NibDesignableDemoTests */ = {
-			isa = PBXGroup;
-			children = (
-				100D486CDF98649EF73DBF5E26537BE4 /* Info.plist */,
-				55B6993FA138FA92C8A9DA2C87010E42 /* Pods-NibDesignableDemoTests.modulemap */,
-				A8BB4B7EC7DD4CD59078BF84F7601666 /* Pods-NibDesignableDemoTests-acknowledgements.markdown */,
-				1BF87566BCB6A374C2AC554DD6F4AFD4 /* Pods-NibDesignableDemoTests-acknowledgements.plist */,
-				9B5526B6A4AC93386700CA7CEBACD412 /* Pods-NibDesignableDemoTests-dummy.m */,
-				4E4564879FAF8BF6B34F2EB34E224116 /* Pods-NibDesignableDemoTests-frameworks.sh */,
-				975B4D47D438F8B6C228CAA043D77AA7 /* Pods-NibDesignableDemoTests-resources.sh */,
-				787D317B75648933B4980B365F7F9769 /* Pods-NibDesignableDemoTests-umbrella.h */,
-				90785D2C6786B3D746FB1E7F3D7517BE /* Pods-NibDesignableDemoTests.debug.xcconfig */,
-				5E16BE4E6F747E5FE3B7F3D5D5CDFAA3 /* Pods-NibDesignableDemoTests.release.xcconfig */,
-			);
-			name = "Pods-NibDesignableDemoTests";
-			path = "Target Support Files/Pods-NibDesignableDemoTests";
 			sourceTree = "<group>";
 		};
 		C6EFC9FA54175DB3695E3AA553589CED /* Products */ = {
@@ -198,86 +202,104 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D3D02A3550A0FE45847028B9E13D7E0E /* Development Pods */ = {
+		E944B6EA30856E17739F1269CA2EC098 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				AEBF9DD8F78F1BDD06F1AEC01A8A6159 /* NibDesignable */,
+				1FF8EB8B3C2AE2035817BEE17A2D84D6 /* Info.plist */,
+				B9714B59A7AC2A78A799B87D38695770 /* NibDesignable.modulemap */,
+				5A17B843A18CBE859D56A43AE5F2F1D2 /* NibDesignable.xcconfig */,
+				E41D4AA8AC330B90E6A3ADC3B387FF40 /* NibDesignable-dummy.m */,
+				F2F33C436647C288360DC8BB74FCC4B2 /* NibDesignable-prefix.pch */,
+				A549CBE5279287B41587B6784A477743 /* NibDesignable-umbrella.h */,
 			);
-			name = "Development Pods";
+			name = "Support Files";
+			path = "NibDesignableDemo/Pods/Target Support Files/NibDesignable";
+			sourceTree = "<group>";
+		};
+		F6A8132DBDEF85837E23315B1804C90C /* NibDesignable */ = {
+			isa = PBXGroup;
+			children = (
+				AA0E139A94FA57B0FB4EF56E3899E62E /* NibDesignable.swift */,
+				00DD32E5B03974F0346801EACB21A20B /* Pod */,
+				E944B6EA30856E17739F1269CA2EC098 /* Support Files */,
+			);
+			name = NibDesignable;
+			path = ../..;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		624F418705232091DD6F5FEE26C0AC4B /* Headers */ = {
+		20E2F88E60CCF6ECC10605185ED34C22 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BBE1ACAC8BD864F97696A3C9179B7C26 /* Pods-NibDesignableDemoTests-umbrella.h in Headers */,
+				76CC45B4C336BCCEE9F78893499383C5 /* Pods-NibDesignableDemoTests-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7152480804E23A0DD42F918E4D703D60 /* Headers */ = {
+		2EC4572BA562987F94C56C8F600368B5 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6781E042E60279F30EC954114CD6FBEF /* NibDesignable-umbrella.h in Headers */,
+				108D1AB1CC5D877A0EE9E3216848BD29 /* Pods-NibDesignableDemo-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		94DBC9610300ECC060D73A7104070189 /* Headers */ = {
+		88576277731CC0C06C8654570279F6ED /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				57FE537BF9410539B45E764D0F8FCE3A /* Pods-NibDesignableDemo-umbrella.h in Headers */,
+				C4A3B7F63CFE62F48DAEF658E728FCB9 /* NibDesignable-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		72DB47364B1658F05BF4D12F847A0D92 /* Pods-NibDesignableDemo */ = {
+		5F408E660C3082B498E704B8CBF99E6A /* Pods-NibDesignableDemoTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8846B26FB27516F37E67FF53781E5A68 /* Build configuration list for PBXNativeTarget "Pods-NibDesignableDemo" */;
+			buildConfigurationList = 66D9BBB2A974776B464A0C9AC37DD9AC /* Build configuration list for PBXNativeTarget "Pods-NibDesignableDemoTests" */;
 			buildPhases = (
-				8B623787888BD04FAAF752ACF1068D8F /* Sources */,
-				6765E8BB46B69B3699A0806C8098301D /* Frameworks */,
-				94DBC9610300ECC060D73A7104070189 /* Headers */,
+				D3D4E7E0608CD906A769BB8E63A38837 /* Sources */,
+				344147ECA6C1294939BB81BBA885026D /* Frameworks */,
+				20E2F88E60CCF6ECC10605185ED34C22 /* Headers */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				8ECC2A9C74DE7CD4C729F984502026EC /* PBXTargetDependency */,
-			);
-			name = "Pods-NibDesignableDemo";
-			productName = "Pods-NibDesignableDemo";
-			productReference = BAEC876DD41F0C2C4FB6791A60074CCE /* Pods_NibDesignableDemo.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		B797E0E6E993DCD9B3EF002F1C9F7762 /* Pods-NibDesignableDemoTests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = A3BCE3469C8ED17688684264E8664E18 /* Build configuration list for PBXNativeTarget "Pods-NibDesignableDemoTests" */;
-			buildPhases = (
-				A32ED36D3EC6574D62D7F76B9ED7EFFE /* Sources */,
-				617EC2C446F33A88BA3F1D8CF21DEEEF /* Frameworks */,
-				624F418705232091DD6F5FEE26C0AC4B /* Headers */,
-			);
-			buildRules = (
-			);
-			dependencies = (
+				C799F192E2F28A33DBB4505E735EBB09 /* PBXTargetDependency */,
 			);
 			name = "Pods-NibDesignableDemoTests";
 			productName = "Pods-NibDesignableDemoTests";
 			productReference = 6DF93988C451A9957A61E79E5FAD7FDD /* Pods_NibDesignableDemoTests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		C9635E9FED620B2CE25758C5EC96796A /* NibDesignable */ = {
+		C71281E5FD32BA2C2F1AF86B50408BA7 /* Pods-NibDesignableDemo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 145A801C32FCA82165919D29C5379BE8 /* Build configuration list for PBXNativeTarget "NibDesignable" */;
+			buildConfigurationList = 224579393358838CA0E8325EBC5590D4 /* Build configuration list for PBXNativeTarget "Pods-NibDesignableDemo" */;
 			buildPhases = (
-				FAAFE3A4C823906E3B139F7512971F21 /* Sources */,
-				AF4478525E2F2ABF9A2D45BD767A8AE2 /* Frameworks */,
-				7152480804E23A0DD42F918E4D703D60 /* Headers */,
+				624F50CB3EC223641BEA31D9498B39A7 /* Sources */,
+				F62448403F8E8F2E12C3F49B1DD94AAA /* Frameworks */,
+				2EC4572BA562987F94C56C8F600368B5 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				70F781871044FC8136607C203FD1F792 /* PBXTargetDependency */,
+			);
+			name = "Pods-NibDesignableDemo";
+			productName = "Pods-NibDesignableDemo";
+			productReference = BAEC876DD41F0C2C4FB6791A60074CCE /* Pods_NibDesignableDemo.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		FA687379C17E16E38819435B46F15DE2 /* NibDesignable */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 99524A0878E948E5094F4500E202992B /* Build configuration list for PBXNativeTarget "NibDesignable" */;
+			buildPhases = (
+				02D67F4B0D8CCB2CD6BBE0E638214914 /* Sources */,
+				6DAD376157130780D2934C4718119938 /* Frameworks */,
+				88576277731CC0C06C8654570279F6ED /* Headers */,
 			);
 			buildRules = (
 			);
@@ -294,8 +316,13 @@
 		D41D8CD98F00B204E9800998ECF8427E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 0730;
-				LastUpgradeCheck = 0700;
+				LastSwiftUpdateCheck = 0930;
+				LastUpgradeCheck = 0940;
+				TargetAttributes = {
+					FA687379C17E16E38819435B46F15DE2 = {
+						LastSwiftMigration = 0940;
+					};
+				};
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -309,349 +336,391 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C9635E9FED620B2CE25758C5EC96796A /* NibDesignable */,
-				72DB47364B1658F05BF4D12F847A0D92 /* Pods-NibDesignableDemo */,
-				B797E0E6E993DCD9B3EF002F1C9F7762 /* Pods-NibDesignableDemoTests */,
+				FA687379C17E16E38819435B46F15DE2 /* NibDesignable */,
+				C71281E5FD32BA2C2F1AF86B50408BA7 /* Pods-NibDesignableDemo */,
+				5F408E660C3082B498E704B8CBF99E6A /* Pods-NibDesignableDemoTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		8B623787888BD04FAAF752ACF1068D8F /* Sources */ = {
+		02D67F4B0D8CCB2CD6BBE0E638214914 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ED6C6A9CFDE8C23263321960DE6CD0C2 /* Pods-NibDesignableDemo-dummy.m in Sources */,
+				06EEC7C988E70500D33BA85077EAEE42 /* NibDesignable-dummy.m in Sources */,
+				D367C66719DFCD5C7D06A9123158AA8D /* NibDesignable.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A32ED36D3EC6574D62D7F76B9ED7EFFE /* Sources */ = {
+		624F50CB3EC223641BEA31D9498B39A7 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				821E658BFDEB948B7815B98C787D06A8 /* Pods-NibDesignableDemoTests-dummy.m in Sources */,
+				64CB77110352E784F6D0F67C22D7A093 /* Pods-NibDesignableDemo-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FAAFE3A4C823906E3B139F7512971F21 /* Sources */ = {
+		D3D4E7E0608CD906A769BB8E63A38837 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B7813CCCC153CA098EA3BC03C38CBB0C /* NibDesignable-dummy.m in Sources */,
-				8637160A528CF6D9712CFB9FB3B71E80 /* NibDesignable.swift in Sources */,
+				083F60D294EFD9EECE7D648BC9A400B5 /* Pods-NibDesignableDemoTests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		8ECC2A9C74DE7CD4C729F984502026EC /* PBXTargetDependency */ = {
+		70F781871044FC8136607C203FD1F792 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = NibDesignable;
-			target = C9635E9FED620B2CE25758C5EC96796A /* NibDesignable */;
-			targetProxy = DAA971005E5D86F6623FECCC80038781 /* PBXContainerItemProxy */;
+			target = FA687379C17E16E38819435B46F15DE2 /* NibDesignable */;
+			targetProxy = 747EB0C5DB87E2DB0828F0BAFBB73BA6 /* PBXContainerItemProxy */;
+		};
+		C799F192E2F28A33DBB4505E735EBB09 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Pods-NibDesignableDemo";
+			target = C71281E5FD32BA2C2F1AF86B50408BA7 /* Pods-NibDesignableDemo */;
+			targetProxy = FA398E8BADF51CF8A3CF4294DEB9AB90 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		00E6679144AEF9A008945104076387EF /* Release */ = {
+		0233E5956491F1459A8A861199789BB8 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 014E51FABFED13C5E651581917A930A0 /* Pods-NibDesignableDemo.release.xcconfig */;
+			baseConfigurationReference = EA698F94EBFF178CF9DDE2E129AFF148 /* Pods-NibDesignableDemo.debug.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
 				INFOPLIST_FILE = "Target Support Files/Pods-NibDesignableDemo/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-NibDesignableDemo/Pods-NibDesignableDemo.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_NibDesignableDemo;
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
-			name = Release;
+			name = Debug;
 		};
-		015A368F878AC3E2CEAE21DDE8026304 /* Debug */ = {
+		1EE19F5DD95931924296F637BF18BD8F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_ALLOWED = NO;
 				CODE_SIGNING_REQUIRED = NO;
 				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
-				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"POD_CONFIGURATION_DEBUG=1",
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
 				GCC_WARN_UNDECLARED_SELECTOR = YES;
-				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
-				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
+				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Debug;
 		};
-		0FEDD4EB33E7DF6EEACADF09019BFE50 /* Release */ = {
+		3404CBC2265ABEEC54E241C1DBE5110B /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5E16BE4E6F747E5FE3B7F3D5D5CDFAA3 /* Pods-NibDesignableDemoTests.release.xcconfig */;
+			baseConfigurationReference = 7EF98223D5A9DFB46DC17EB96D09722D /* Pods-NibDesignableDemoTests.release.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
 				INFOPLIST_FILE = "Target Support Files/Pods-NibDesignableDemoTests/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-NibDesignableDemoTests/Pods-NibDesignableDemoTests.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_NibDesignableDemoTests;
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		581E4982296B627E105B2D0C2F833916 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = CCCB43F1F87F398DBFAC4E1463EA0AA4 /* Pods-NibDesignableDemoTests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-NibDesignableDemoTests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-NibDesignableDemoTests/Pods-NibDesignableDemoTests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
-			name = Release;
+			name = Debug;
 		};
-		1B649FAA22A34D9D74E0CE3F4555962C /* Debug */ = {
+		5936D6B20BDEA151700F3D84AECA7D58 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 596E7DDBCAC99F264268485FE483C08C /* Pods-NibDesignableDemo.debug.xcconfig */;
+			baseConfigurationReference = 440F0A781898ED118F20F73F2A7BCC59 /* Pods-NibDesignableDemo.release.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
 				INFOPLIST_FILE = "Target Support Files/Pods-NibDesignableDemo/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-NibDesignableDemo/Pods-NibDesignableDemo.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_NibDesignableDemo;
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		C878E9A71EEC7B15CD1839821E4FE3E8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5A17B843A18CBE859D56A43AE5F2F1D2 /* NibDesignable.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/NibDesignable/NibDesignable-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/NibDesignable/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/NibDesignable/NibDesignable.modulemap";
+				PRODUCT_MODULE_NAME = NibDesignable;
+				PRODUCT_NAME = NibDesignable;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
+				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
 		};
-		44CDBB6D11DE06DB64D6268622BDC47E /* Release */ = {
+		F4568DEE257655D290C2B9CEAB37C934 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_ALLOWED = NO;
 				CODE_SIGNING_REQUIRED = NO;
-				COPY_PHASE_STRIP = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
-				GCC_C_LANGUAGE_STANDARD = gnu99;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"POD_CONFIGURATION_RELEASE=1",
 					"$(inherited)",
 				);
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
 				GCC_WARN_UNDECLARED_SELECTOR = YES;
-				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
-				STRIP_INSTALLED_PRODUCT = NO;
-				SYMROOT = "${SRCROOT}/../build";
-				VALIDATE_PRODUCT = YES;
-			};
-			name = Release;
-		};
-		52B02A2CB3ECFAB144674158A8AD928C /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = D4A0F16007561DB58CF8451F3756016E /* NibDesignable.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/NibDesignable/NibDesignable-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/NibDesignable/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/NibDesignable/NibDesignable.modulemap";
 				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_NAME = NibDesignable;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 3.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Release;
 		};
-		9C732C9B192FBD7EF5C84FB9D9E2629B /* Debug */ = {
+		FCB2E8937FE60C7E8824AFCF29FBED3C /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 90785D2C6786B3D746FB1E7F3D7517BE /* Pods-NibDesignableDemoTests.debug.xcconfig */;
+			baseConfigurationReference = 5A17B843A18CBE859D56A43AE5F2F1D2 /* NibDesignable.xcconfig */;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-NibDesignableDemoTests/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-NibDesignableDemoTests/Pods-NibDesignableDemoTests.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_NibDesignableDemoTests;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		BFCA3A28F3238CFA6731A84D8BE4C35D /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = D4A0F16007561DB58CF8451F3756016E /* NibDesignable.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_PREFIX_HEADER = "Target Support Files/NibDesignable/NibDesignable-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/NibDesignable/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/NibDesignable/NibDesignable.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_MODULE_NAME = NibDesignable;
 				PRODUCT_NAME = NibDesignable;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 3.0;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
+				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
-			name = Debug;
+			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		145A801C32FCA82165919D29C5379BE8 /* Build configuration list for PBXNativeTarget "NibDesignable" */ = {
+		224579393358838CA0E8325EBC5590D4 /* Build configuration list for PBXNativeTarget "Pods-NibDesignableDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BFCA3A28F3238CFA6731A84D8BE4C35D /* Debug */,
-				52B02A2CB3ECFAB144674158A8AD928C /* Release */,
+				0233E5956491F1459A8A861199789BB8 /* Debug */,
+				5936D6B20BDEA151700F3D84AECA7D58 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -659,26 +728,26 @@
 		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				015A368F878AC3E2CEAE21DDE8026304 /* Debug */,
-				44CDBB6D11DE06DB64D6268622BDC47E /* Release */,
+				1EE19F5DD95931924296F637BF18BD8F /* Debug */,
+				F4568DEE257655D290C2B9CEAB37C934 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8846B26FB27516F37E67FF53781E5A68 /* Build configuration list for PBXNativeTarget "Pods-NibDesignableDemo" */ = {
+		66D9BBB2A974776B464A0C9AC37DD9AC /* Build configuration list for PBXNativeTarget "Pods-NibDesignableDemoTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1B649FAA22A34D9D74E0CE3F4555962C /* Debug */,
-				00E6679144AEF9A008945104076387EF /* Release */,
+				581E4982296B627E105B2D0C2F833916 /* Debug */,
+				3404CBC2265ABEEC54E241C1DBE5110B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A3BCE3469C8ED17688684264E8664E18 /* Build configuration list for PBXNativeTarget "Pods-NibDesignableDemoTests" */ = {
+		99524A0878E948E5094F4500E202992B /* Build configuration list for PBXNativeTarget "NibDesignable" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				9C732C9B192FBD7EF5C84FB9D9E2629B /* Debug */,
-				0FEDD4EB33E7DF6EEACADF09019BFE50 /* Release */,
+				C878E9A71EEC7B15CD1839821E4FE3E8 /* Debug */,
+				FCB2E8937FE60C7E8824AFCF29FBED3C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

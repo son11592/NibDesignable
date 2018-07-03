@@ -26,7 +26,7 @@ import UIKit
 import NibDesignable
 
 class TestView: NibDesignable {
-    override func nibName() -> String {
+    @objc override func nibName() -> String {
         return "TestingView"
     }
 }
