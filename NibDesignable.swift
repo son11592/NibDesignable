@@ -66,7 +66,7 @@ extension NibDesignableProtocol {
     /**
      Called in init(frame:) and init(aDecoder:) to load the nib and add it as a subview.
      */
-    func setupNib() {
+    public func setupNib() {
         let view = self.loadNib()
         self.nibContainerView.addSubview(view)
         view.translatesAutoresizingMaskIntoConstraints = false
