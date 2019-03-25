@@ -40,29 +40,29 @@
 		1FF8EB8B3C2AE2035817BEE17A2D84D6 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2C3B35EA926BC375E6A4855893C295C8 /* Pods-NibDesignableDemoTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-NibDesignableDemoTests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		32532E7BC26BB96D04BB282C980CBF60 /* Pods-NibDesignableDemo-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-NibDesignableDemo-resources.sh"; sourceTree = "<group>"; };
-		402EE9763C5A2BA45FDF8696C8BC381D /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		402EE9763C5A2BA45FDF8696C8BC381D /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		440F0A781898ED118F20F73F2A7BCC59 /* Pods-NibDesignableDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NibDesignableDemo.release.xcconfig"; sourceTree = "<group>"; };
 		4DDE194EB8A73C0701175FB3D4F22AB5 /* Pods-NibDesignableDemo.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-NibDesignableDemo.modulemap"; sourceTree = "<group>"; };
-		515D284FD54A4E29A408F7DB384FA487 /* NibDesignable.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = NibDesignable.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		515D284FD54A4E29A408F7DB384FA487 /* NibDesignable.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = NibDesignable.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		534BBCA7809F65131F45D85AF5DD06CE /* Pods-NibDesignableDemo-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-NibDesignableDemo-acknowledgements.markdown"; sourceTree = "<group>"; };
 		5775753E382E48993BD4982188270CD8 /* Pods-NibDesignableDemo-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-NibDesignableDemo-umbrella.h"; sourceTree = "<group>"; };
 		5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		5A17B843A18CBE859D56A43AE5F2F1D2 /* NibDesignable.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = NibDesignable.xcconfig; sourceTree = "<group>"; };
 		657C363CB4364C8A06DD61C06006D526 /* Pods-NibDesignableDemoTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-NibDesignableDemoTests-acknowledgements.plist"; sourceTree = "<group>"; };
-		6DF93988C451A9957A61E79E5FAD7FDD /* Pods_NibDesignableDemoTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_NibDesignableDemoTests.framework; path = "Pods-NibDesignableDemoTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		78384F39819B9A5892B6EE6111063065 /* NibDesignable.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = NibDesignable.framework; path = NibDesignable.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		6DF93988C451A9957A61E79E5FAD7FDD /* Pods_NibDesignableDemoTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NibDesignableDemoTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		78384F39819B9A5892B6EE6111063065 /* NibDesignable.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = NibDesignable.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7EF98223D5A9DFB46DC17EB96D09722D /* Pods-NibDesignableDemoTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NibDesignableDemoTests.release.xcconfig"; sourceTree = "<group>"; };
 		8FCE90B82A10994969B7D465C0E6A89E /* Pods-NibDesignableDemoTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-NibDesignableDemoTests-resources.sh"; sourceTree = "<group>"; };
 		904D293CC3502111DE9E4C719F34D522 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		91DFAFFEAF07EAF7205CD575889F669E /* Pods-NibDesignableDemo-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-NibDesignableDemo-dummy.m"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9412EDC34BDA5A20277A5FEA20618BF6 /* Pods-NibDesignableDemo-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-NibDesignableDemo-acknowledgements.plist"; sourceTree = "<group>"; };
 		A549CBE5279287B41587B6784A477743 /* NibDesignable-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NibDesignable-umbrella.h"; sourceTree = "<group>"; };
 		AA0E139A94FA57B0FB4EF56E3899E62E /* NibDesignable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = NibDesignable.swift; sourceTree = "<group>"; };
 		B8B5E8EC4D9476E57F53B8098462F49C /* Pods-NibDesignableDemoTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-NibDesignableDemoTests-frameworks.sh"; sourceTree = "<group>"; };
 		B9714B59A7AC2A78A799B87D38695770 /* NibDesignable.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = NibDesignable.modulemap; sourceTree = "<group>"; };
-		BAEC876DD41F0C2C4FB6791A60074CCE /* Pods_NibDesignableDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_NibDesignableDemo.framework; path = "Pods-NibDesignableDemo.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		C5153BAC6E80F4A8DB348980E11AE885 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		BAEC876DD41F0C2C4FB6791A60074CCE /* Pods_NibDesignableDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NibDesignableDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C5153BAC6E80F4A8DB348980E11AE885 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		C836151A21ADBC823134212DA0BF7705 /* Pods-NibDesignableDemoTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-NibDesignableDemoTests-dummy.m"; sourceTree = "<group>"; };
 		CCCB43F1F87F398DBFAC4E1463EA0AA4 /* Pods-NibDesignableDemoTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NibDesignableDemoTests.debug.xcconfig"; sourceTree = "<group>"; };
 		D0DDEFDC9FE01474FAD0A6D8D6A0B461 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -318,6 +318,11 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0930;
 				LastUpgradeCheck = 0930;
+				TargetAttributes = {
+					FA687379C17E16E38819435B46F15DE2 = {
+						LastSwiftMigration = 1010;
+					};
+				};
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -539,7 +544,7 @@
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -640,7 +645,7 @@
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
